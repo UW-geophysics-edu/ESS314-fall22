@@ -1,11 +1,10 @@
-# Autumn 2021 - ESS 314 - Geophysics
+# Autumn 2022 - ESS 314 - Geophysics
 
 
 ## Instructors:
 Harold Tobin, htobin@uw.edu 
-Marine Denolle, mdenolle@uw.edu 
 *Teaching Assistant*:
-Anna Ledeczi, ledeczi@uw.edu
+Barrett Johnson, bnjo@uw.edu
 
 
 # Textbook
